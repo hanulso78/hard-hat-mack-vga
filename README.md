@@ -3,12 +3,28 @@
 1984년 Electronic Arts 의 *Hard Hat Mack* IBM PC 판(`HHMACK.COM`, Dana How & Kevin Gilmore)을
 역어셈블해 C 로 옮기고, 게임 규칙·빠르기·소리는 원본 그대로 둔 채 화면만 VGA 256색으로 다시 그린 것이다.
 
+![원본 CGA 와 VGA 리마스터](shots/doc/cga-vga-1.png)
+
+왼쪽이 원본 CGA 4색, 오른쪽이 같은 순간의 VGA 판이다 (게임 쪽은 한 바이트도 다르지 않다).
+
+![둘째 화면도 나란히](shots/doc/cga-vga-2.png)
+
 | | |
 |---|---|
 | `HHMACK.EXE` | 원본과 똑같이 동작하는 판 (CGA 4색) |
 | `HHVGA.EXE` | 같은 게임, 화면만 VGA 256색 |
 
 바로 돌려볼 수 있는 실행 파일은 [`release/`](release) 에 있다 (`CWSDPMI.EXE` 와 한 폴더에).
+
+## 화면
+
+| | |
+|---|---|
+| ![제목 화면](shots/doc/title.png) | ![첫째 화면](shots/doc/level1.png) |
+| ![둘째 화면](shots/doc/level2.png) | ![셋째 화면](shots/doc/level3.png) |
+
+제목 화면, 그리고 한 바퀴를 이루는 세 화면 (철골 / 컨베이어 / 엘리베이터).
+화면마다 하늘과 도시 배경이 다르다.
 
 ## 어떻게 옮겼나
 
