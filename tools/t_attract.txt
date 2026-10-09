@@ -1,0 +1,4 @@
+50 shot T1
+600 shot T2
+2000 shot T3
+2100 quit

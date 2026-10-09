@@ -1,0 +1,10 @@
+60 sc 02
+200 sc 39
+250 shot S1
+300 stage 1
+600 shot S2
+700 stage 1
+1000 shot S3
+1100 stage -1
+1400 shot S4
+1450 quit

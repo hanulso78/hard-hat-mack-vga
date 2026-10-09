@@ -1,0 +1,23 @@
+# 빌드 결과
+*.o
+*.vo
+*.exe
+!release/*.EXE
+
+# 시험하며 생긴 것 (_ 로 시작하는 것은 모두 찌꺼기, 키 스크립트만 남긴다)
+_*
+!tools/_k?.txt
+!tools/_stage*.txt
+*.pkl
+*.log
+*.rar
+__pycache__/
+HHLOG.TXT
+HHTEST.TXT
+/*.BMP
+tools/*.png
+
+# 화면 갈무리 (견줄 기준만 남긴다)
+shots/*
+!shots/ref
+!shots/ref/*
